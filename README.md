@@ -4,3 +4,5 @@ This repository saves one of the projects i've done while studying at UPNA, wher
 This particular case utilices MNIST and EMNIST datasets, exploiting their handwritten numbers & letters to learn and predict which kind of number or letter the input is.
 
 The project was part of the Knowledge Engineering subject, 3rd year of the Computer Science degree @ UPNA.
+
+It's divided in three different main files as this was explicitly requested in the project statement.
